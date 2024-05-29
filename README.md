@@ -1,4 +1,4 @@
-#Task Manager README
+# Task Manager README
 
 This Task Manager program allows users to manage their tasks efficiently. Users can add tasks with titles, deadlines, and priorities. They can mark tasks as completed and view their tasks as well as predefined tasks.
 
